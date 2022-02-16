@@ -1,4 +1,6 @@
 //Question bank
+
+<script>
 var questionBank = [{
         question: 'The Sum of 10 + 10 is _____ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias id doloribus reprehenderit, fugiat iure facilis incidunt ea, itaque vero, neque soluta. Aperiam neque quasi libero esse cumque inventore quia quas?',
         option: ['20', '10', '1010', '100'],
@@ -103,3 +105,5 @@ function checkAnswer() {
 
 
 displayQuestion();
+
+</script>
